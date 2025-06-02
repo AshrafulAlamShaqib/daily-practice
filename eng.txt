@@ -1,0 +1,4 @@
+[1] [Algebra] Solve for x: x + 3 = 5
+[2] [Algebra] img: algebra1.png
+[3] [Calculus] ∫x dx
+[4] [Calculus] img: integral2.png

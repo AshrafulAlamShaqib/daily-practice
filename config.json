@@ -1,0 +1,15 @@
+{
+  "Math": {
+    "file": "math.txt",
+    "topics": {
+      "Algebra": 2,
+      "Calculus": 1
+    }
+  },
+  "Physics": {
+    "file": "physics.txt",
+    "topics": {
+      "Mechanics": 2
+    }
+  }
+}
