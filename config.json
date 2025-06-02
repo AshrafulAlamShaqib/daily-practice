@@ -7,9 +7,15 @@
     }
   },
   "Physics": {
-    "file": "physics.txt",
+    "file": "phy.txt",
     "topics": {
       "Mechanics": 2
+    }
+  },
+  "Bangla": {
+    "file": "Bn.txt",
+    "topics": {
+      "1": 2
     }
   }
 }
